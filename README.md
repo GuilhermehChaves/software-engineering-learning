@@ -2,7 +2,11 @@
 
 # My Software Engineering Learning
 
-Minha lista de tópicos para estudo em engenharia de software.
+Minha lista de tecnologias para estudo em engenharia de software.
+Algumas destas tecnologias são vistas na maioria das vagas de trabalho e outras eu peguei
+com base no que vejo no dia a dia.
+
+Neste repositório vou registrar meu estudo sobre essas tecnologias 😄.
 
 <br>
 
@@ -28,3 +32,4 @@ Minha lista de tópicos para estudo em engenharia de software.
 - [ ] Pipeline
 - [ ] Redis
 - [ ] Maven
+- [ ] Design Patterns
