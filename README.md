@@ -4,9 +4,9 @@
 
 Minha lista de tecnologias para estudo em engenharia de software.
 Algumas destas tecnologias são vistas na maioria das vagas de trabalho e outras eu peguei
-com base no que vejo no dia a dia.
+com base em experiências do dia a dia.
 
-Neste repositório vou registrar meu estudo sobre essas tecnologias 😄.
+Neste repositório vou registrar meu estudo sobre essas tecnologias 😃.
 
 <br>
 
