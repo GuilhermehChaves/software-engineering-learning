@@ -4,6 +4,8 @@
 
 Minha lista de tópicos para estudo em engenharia de software.
 
+<br>
+
 ## Tópicos
 
 - [ ] Docker
