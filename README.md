@@ -14,7 +14,7 @@ com base em experiências do dia a dia.
 - [ ] Message Queuing
 - [ ] Webhook
 - [ ] Cloud
-- [ ] Clean Architecture
+- [x] Clean Architecture
 - [ ] Clean Code
 - [ ] SOLID
 - [ ] Kubernetes / Helm
